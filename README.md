@@ -140,7 +140,3 @@ service firebase.storage {
 ```
 
 
-
-## Conclusion
-
-This project provides a robust e-commerce solution leveraging modern technologies. Feel free to customize and extend its functionality as needed.
